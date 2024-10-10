@@ -1,0 +1,10 @@
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\bin\Debug\TcpServerGUI.exe.config
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\bin\Debug\TcpServerGUI.exe
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\bin\Debug\TcpServerGUI.pdb
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\obj\Debug\TcpServerGUI.csproj.AssemblyReference.cache
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\obj\Debug\TcpServerGUI.Form1.resources
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\obj\Debug\TcpServerGUI.Properties.Resources.resources
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\obj\Debug\TcpServerGUI.csproj.GenerateResource.cache
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\obj\Debug\TcpServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\obj\Debug\TcpServerGUI.exe
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpServerGUI\TcpServerGUI\obj\Debug\TcpServerGUI.pdb

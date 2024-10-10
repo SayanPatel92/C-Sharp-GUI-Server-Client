@@ -1,0 +1,10 @@
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\bin\Debug\TcpClientGUI.exe.config
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\bin\Debug\TcpClientGUI.exe
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\bin\Debug\TcpClientGUI.pdb
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\obj\Debug\TcpClientGUI.csproj.AssemblyReference.cache
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\obj\Debug\TcpClientGUI.Form1.resources
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\obj\Debug\TcpClientGUI.Properties.Resources.resources
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\obj\Debug\TcpClientGUI.csproj.GenerateResource.cache
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\obj\Debug\TcpClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\obj\Debug\TcpClientGUI.exe
+C:\Users\patel\OneDrive\Attachments\FALL24\GUI Project\TcpClientGUI\TcpClientGUI\obj\Debug\TcpClientGUI.pdb
